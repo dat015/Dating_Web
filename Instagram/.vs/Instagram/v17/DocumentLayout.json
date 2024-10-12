@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C#\\Instagram\\Instagram\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|d:\\c#\\instagram\\instagram\\instagram\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|solutionrelative:instagram\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|d:\\c#\\instagram\\instagram\\instagram\\instagram.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|solutionrelative:instagram\\instagram.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|d:\\c#\\instagram\\instagram\\instagram\\instagram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|solutionrelative:instagram\\instagram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|d:\\c#\\instagram\\instagram\\instagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|solutionrelative:instagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|d:\\c#\\instagram\\instagram\\instagram\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|solutionrelative:instagram\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|d:\\c#\\instagram\\instagram\\instagram\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|solutionrelative:instagram\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|d:\\c#\\instagram\\instagram\\instagram\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B478CC22-A69A-4148-B49F-CC73C6108DCE}|Instagram\\Instagram.csproj|solutionrelative:instagram\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instagram.http",
+              "DocumentMoniker": "D:\\C#\\Instagram\\Instagram\\Instagram\\Instagram.http",
+              "RelativeDocumentMoniker": "Instagram\\Instagram.http",
+              "ToolTip": "D:\\C#\\Instagram\\Instagram\\Instagram\\Instagram.http",
+              "RelativeToolTip": "Instagram\\Instagram.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-12T15:56:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instagram",
+              "DocumentMoniker": "D:\\C#\\Instagram\\Instagram\\Instagram\\Instagram.csproj",
+              "RelativeDocumentMoniker": "Instagram\\Instagram.csproj",
+              "ToolTip": "D:\\C#\\Instagram\\Instagram\\Instagram\\Instagram.csproj",
+              "RelativeToolTip": "Instagram\\Instagram.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T15:55:10.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#\\Instagram\\Instagram\\Instagram\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Instagram\\appsettings.Development.json",
+              "ToolTip": "D:\\C#\\Instagram\\Instagram\\Instagram\\appsettings.Development.json",
+              "RelativeToolTip": "Instagram\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T15:54:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Instagram\\Instagram\\Instagram\\Program.cs",
+              "RelativeDocumentMoniker": "Instagram\\Program.cs",
+              "ToolTip": "D:\\C#\\Instagram\\Instagram\\Instagram\\Program.cs",
+              "RelativeToolTip": "Instagram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:51:33.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\Instagram\\Instagram\\Instagram\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Instagram\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\Instagram\\Instagram\\Instagram\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Instagram\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T15:40:54.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\Instagram\\Instagram\\Instagram\\appsettings.json",
+              "RelativeDocumentMoniker": "Instagram\\appsettings.json",
+              "ToolTip": "D:\\C#\\Instagram\\Instagram\\Instagram\\appsettings.json",
+              "RelativeToolTip": "Instagram\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T15:40:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\C#\\Instagram\\Instagram\\Instagram\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Instagram\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\C#\\Instagram\\Instagram\\Instagram\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Instagram\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:36:57.661Z",
+              "EditorCaption": ""
             }
           ]
         },
